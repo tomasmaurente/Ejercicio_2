@@ -6,7 +6,8 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Paulo Rodriguez");
+            Console.WriteLine("Tomás Maurente");
+            Console.WriteLine("Paulo Rodríguez");
         }
     }
 }
